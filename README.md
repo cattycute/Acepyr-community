@@ -5,3 +5,4 @@ Add explanation of Syncr AI coaching mechanism and its role
 Update README with project vision and long-term roadmap insights
 Add section analyzing gamified financial decision-making model
 Improve documentation clarity and reorganize content structure
+nclude comparison between traditional economy and Intelligence EconomyI
